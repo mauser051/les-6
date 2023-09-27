@@ -1,2 +1,7 @@
 # les-6 test
-les 6
+dit is een ofening
+
+- 1
+- 2
+- 3
+- 
